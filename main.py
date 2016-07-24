@@ -1,3 +1,4 @@
+#!/usr/bin/python2
 import sys
 import traceback
 from lxml import etree
